@@ -6,4 +6,4 @@ This course provides a broad introduction to machine learning, datamining, and s
 
 
 
-All assignments solutions are provided here.
+🟡🟠🔴🔵✅   All assignments solutions are provided here.
